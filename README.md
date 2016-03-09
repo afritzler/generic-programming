@@ -1,6 +1,13 @@
 # generic-programming
 Mathematics, Algorithms and Co.
 
-# Packages
+# packages
 
 * `hw`: Hello world example.
+
+# build
+
+```
+cd {package}
+make
+```
